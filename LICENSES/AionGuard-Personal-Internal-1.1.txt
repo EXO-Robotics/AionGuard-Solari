@@ -1,0 +1,81 @@
+AionGuard Personal and Internal Business Use License 1.1
+
+Copyright (c) 2026 AionGuard contributors.
+All rights reserved except the permissions expressly granted below.
+
+1. Scope and rights holders
+
+This license applies to the copyrightable AionGuard expression identified in
+LICENSING-COVERAGE.json, only to the extent its actual rights holders own or
+are authorized to license it. Attribution identifies contributors; it does
+not assert sole ownership, an assignment, or exclusive rights over imports.
+Separately licensed upstream code, dependencies, media and other third-party
+material retain their own terms. No rights in such material are reserved here.
+Valid independent permissions for the same material are not overridden.
+
+2. Free personal and internal-business use
+
+Subject to these terms, the actual rights holders grant a worldwide,
+nonexclusive, no-charge copyright license to inspect, execute, copy and
+modify covered material for personal use and internal-business use.
+Internal-business use includes an organization's own staff, authorized
+contractors, devices and operations on owned or rented infrastructure.
+For-profit status alone does not require payment. Ordinary outputs and
+findings may be used in the business without sharing unrelated revenue.
+Private modifications need not be published.
+
+You may distribute covered material gratis outside the commercial activities
+in section 3, preserving this license, copyright notices, scope information
+and applicable third-party notices, and clearly identifying modifications.
+You must have sufficient rights to distribute any additions you include.
+Contributors retain ownership of their respective additions unless separately
+agreed; this license requires no copyright assignment.
+
+Contractors may charge for installing, configuring or maintaining an internal
+deployment, provided they do not sell copies, commercially bundle the
+software, or offer paid hosted functionality to external customers.
+
+3. Separate written commercial permission
+
+The free grant does not authorize selling or reselling covered material,
+distributing it for compensation, providing its functionality to paying
+external customers through hosting, or bundling it in a commercial product,
+appliance, client or subscription offered to others. This includes a client
+supplied without a separate charge as part of a paid offering, and hosting
+included in a larger paid service.
+
+These activities require a separate written commercial agreement with the
+actual rights holders or their authorized representative before they begin.
+Fees or revenue sharing are negotiated separately. There is no preset rate,
+automatic debt, or retroactive royalty obligation in this license.
+Ordinary paid infrastructure for internal use is permitted; operating a paid
+hosted service for external customers requires commercial permission.
+Special permission for free public hosting, trials, sponsored deployments,
+cost recovery or other arrangements must be agreed in writing. Advertising,
+sponsorship or donations alone do not create an automatic royalty obligation.
+
+4. Other rights
+
+Preserve applicable third-party notices. This license covers copyrightable
+expression, not ideas, methods, facts, user data or ordinary findings.
+Statutory exceptions and valid permissions obtained independently remain
+unaffected. No express patent, trademark, logo, trade-name, endorsement or
+branding permission is granted, including for Solari, Pinetree Research or
+the proposed SolariGuard name.
+
+5. Conditions
+
+Permissions are conditional on compliance. Use outside the free grant is
+not authorized merely by an assumed willingness to pay. A breach does not
+cancel independent permissions or compliant downstream permissions.
+The supplied license version governs its grant; later edits do not silently
+bind earlier copies. Rights holders may grant separate written permissions.
+
+6. Warranty and liability
+
+To the extent permitted by applicable law, covered material is provided
+AS IS, without warranties including merchantability, fitness, title or
+noninfringement. To that extent, rights holders disclaim liability for claims
+or damages arising from use. Mandatory law and express obligations in a
+separately signed agreement remain controlling. This license gives no
+security or detection guarantee and no opinion on enforceability.
