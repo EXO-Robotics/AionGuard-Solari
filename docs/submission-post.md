@@ -10,7 +10,7 @@ Attach [controlled-click.png](assets/controlled-click.png).
 >
 > AionGuard holds navigation while a prepared Solari sandbox inspects the page. One controlled Chromium test on our owned fixture.
 >
-> https://github.com/EXO-Robotics/AionGuard-Solari-Source
+> https://github.com/EXO-Robotics/AionGuard-Solari
 >
 > @harrychow_ @getsolari
 

@@ -110,8 +110,8 @@ Recorded with **Vercel Sandbox at the OpenAI Astra Hackathon in New York**. The 
 Use Node 24 LTS:
 
 ```sh
-git clone https://github.com/EXO-Robotics/AionGuard-Solari-Source.git
-cd AionGuard-Solari-Source
+git clone https://github.com/EXO-Robotics/AionGuard-Solari.git
+cd AionGuard-Solari
 npm ci
 npm run build
 cp .env.example .env
